@@ -1,16 +1,17 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**s2sunshine/s2sunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ketlin Christina
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](htpts://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaSript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos em desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📬
+
+  ketlinchristina811@gmail.com
+  
+  @ketlin_christina
+
+![](https://media1.tenor.com/m/R10_g5hqfKIAAAAC/vegeta-cellphone.gif)
+  
+  
